@@ -24,13 +24,6 @@ A simple and effective spam message detection system built using Python, Scikit-
 - Web App: Streamlit provides a simple interface to test messages
   
 
-📦 spam-message-classifier/
-│
-├── spam.py              # Model training script
-├── spam_app.py          # Streamlit UI for prediction
-├── spam_model.joblib    # Saved trained model
-├── spam.csv             # Dataset (SMS messages)
-├── README.md            # You're here!
 
 
 ## 🚀 Demo
